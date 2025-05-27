@@ -1,0 +1,27 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\temp\chromeProfile"
+
+  {
+    "asin": "B0F6Q92F5H",
+    "name": "White Flare Elite Trainer Box",
+    "maxPrice": 1400,
+    "quantity": 2
+  },
+  {
+    "asin": "B0F6PTRKTH",
+    "name": "Black Bolt Elite Trainer Box",
+    "maxPrice": 1400,
+    "quantity": 2
+  },
+  {
+    "asin": "B0F2BDXW4J",
+    "name": "Destined Rivals Elite Trainer Box",
+    "maxPrice": 1400,
+    "quantity": 2
+  },
+
+7148842995:AAETCFFCsU-G8ey6zvb0vF2Z-dahV5iDvvo
+
+-4819581516
+
+TELEGRAM_BOT_TOKEN=7148842995:AAETCFFCsU-G8ey6zvb0vF2Z-dahV5iDvvo
+TELEGRAM_CHAT_ID=4819581516

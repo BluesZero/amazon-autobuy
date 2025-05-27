@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Entorno y configuraciones locales
+.env
+.session.txt
+*.log
+
+# Cookies y sesiones
+sessions/
+bot-session.json
+*.cookies.json
+
+# Screenshots de compras
+screenshots/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Backups
+*.zip
+*.bak
+
+# Archivos de VSCode u otros IDEs
+.vscode/
+.idea/
+
+# Targets personalizados
+config/targets.json

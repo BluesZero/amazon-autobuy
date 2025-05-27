@@ -1,0 +1,19 @@
+{
+  "name": "amazon-autobot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "input": "^1.0.1",
+    "playwright": "^1.52.0",
+    "telegram": "^2.26.22"
+  }
+}
