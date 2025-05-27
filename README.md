@@ -102,4 +102,4 @@ Este repositorio está preparado para trabajar en local. Nunca subas tu `.sessio
 
 ## 🛠️ Autor
 
-Desarrollado por [Tu Nombre Aquí] 🧠
+Desarrollado por BluesZero
